@@ -1,4 +1,4 @@
-#proyecto sip esto esun header
+# proyecto sip esto es un header
 ## Indice
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
