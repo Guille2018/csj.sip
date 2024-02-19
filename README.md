@@ -15,6 +15,7 @@ Escribe la descripción del proyecto. este es un proyecto de  aplicacion para in
 ***
 Listado de las versiones del proyecto con la siguiente información:
 > Mikel Escobar: Regional Consultant
+> estudiante guillermo
 
 ### Control de versiones
 ***
