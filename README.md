@@ -8,7 +8,7 @@
 6. numeral 6  del indice del proyecto que modifique en clase de prueba
 
 ## Generalidades del proyecto
-### Descripción
+### Descripción. modificacion de la descripciondel proyecto
 ***
 Escribe la descripción del proyecto
 ### Colaboradores
