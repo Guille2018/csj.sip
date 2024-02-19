@@ -10,7 +10,7 @@
 ## Generalidades del proyecto
 ### Descripción. modificacion de la descripciondel proyecto
 ***
-Escribe la descripción del proyecto
+Escribe la descripción del proyecto. este es un proyecto de  aplicacion para investigacion prof
 ### Colaboradores
 ***
 Listado de las versiones del proyecto con la siguiente información:
