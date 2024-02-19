@@ -5,6 +5,7 @@
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
+6. numeral 6  del indice del proyecto que modifique en clase de prueba
 
 ## Generalidades del proyecto
 ### Descripción
